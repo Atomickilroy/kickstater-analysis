@@ -1,8 +1,13 @@
 # kickstater-analysis
 Performing analysis on Kickstarter to uncover trends
+
+
 #Nathaniel Livingston
+
 ##GW Analytics Bootcamp
+
 ###Module 1 Challenge
+
 #‘Kickstarter’ Written Analysis
 
 Overview of Project
